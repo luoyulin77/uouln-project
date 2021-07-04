@@ -5,7 +5,12 @@ public class FirstClass {
         System.out.println("hello git");
     }
 
-    public void test(){
+    public void test1(){
+        int i = 10;
+        i += 10;
+    }
+
+    public void test2(){
         int i = 10;
         i += 10;
     }
